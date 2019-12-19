@@ -1,0 +1,58 @@
+{
+    "name": "Regator",
+    "description": "Regator is a selective blog directory and search engine. It's the easiest way to find, share, and read quality posts from hand-selected blogs in over 500 topics.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1357-regator-semantic.jpg",
+    "tags": [
+        "have api",
+        "news",
+        "semantic",
+        "trends"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/regator\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Regator",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1357-regator-semantic.jpg",
+            "humanURL": "http:\/\/platform.regator.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/regator-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/regator-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/platform.regator.com\/api\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/regator"
+        },
+        {
+            "type": "Email",
+            "url": "Mark@Regator.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@regator.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/regator"
+        }
+    ]
+}
